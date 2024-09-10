@@ -1,2 +1,2 @@
 # sns-phone-carousel
-A phone carousel using HTML,CSS and vanilla JS.
+An instagram phone carousel using HTML,CSS and vanilla JS.
