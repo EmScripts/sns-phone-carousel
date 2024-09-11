@@ -7,6 +7,9 @@ Simple image navigation with dots indicator
 Clean and responsive design
 
 # Screenshots
-![screencapture-sns-phone-carousel-netlify-app-2024-09-10-22_29_14](https://github.com/user-attachments/assets/cf5b0fc0-703d-4682-9c3b-72dede3a09d5)
-![image](https://github.com/user-attachments/assets/df4b88b0-fd85-48f5-915e-8ec6e12262a0)
+![screencapture-sns-phone-carousel-netlify-app-2024-09-11-20_28_54](https://github.com/user-attachments/assets/1e073fb7-89cd-45d1-a0ad-6584205f07c6)
+
+
+![image](https://github.com/user-attachments/assets/77ffd60a-834d-4b36-bffb-740f9377b235)
+
 
