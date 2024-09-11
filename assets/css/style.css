@@ -125,7 +125,7 @@
   --line-height-content: 1.6;
   --font-weight-heading: 600;
   --font-weight-body: 500;
-  --margin-padding: 4g0px;
+  --margin-padding: 40px;
   --margin-padding-mobile: 20px;
   --box-padding: 80px;
   --box-padding-mobile: 50px;
@@ -4248,13 +4248,13 @@ ul.lest-box li:last-of-type {
 .admin-bar.dsn-effect-scroll:not(.dsn-mobile) #dsn-scrollbar,
 .sidebar-single,
 .dsn-work-scrollbar {
-  height: calc(100vh - 46px);
+  height: 100vh;
 }
 @media screen and (min-width: 783px) {
   .admin-bar.dsn-effect-scroll:not(.dsn-mobile) #dsn-scrollbar,
   .sidebar-single,
   .dsn-work-scrollbar {
-    height: calc(100vh - 32px);
+    height: 100vh;
   }
 }
 
